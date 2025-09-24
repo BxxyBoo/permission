@@ -10,7 +10,7 @@ Tulis setiap user satu baris diawali ###, lalu: NAMA TANGGAL_AKTIF IP [ON [KODE]
 
 **============== OWNER ==============**
 
-*### TEST 9999-01-01 149.129.216.199 ON VIP*
+*### TEST 9999-01-01 149.129.216.29 ON VIP*
 
 **============== USER RESELLER ==============**
 
