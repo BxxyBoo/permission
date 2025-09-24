@@ -8,14 +8,14 @@ Tulis setiap user satu baris diawali ###, lalu: NAMA TANGGAL_AKTIF IP [ON [KODE]
 
 **Contoh:**
 
-# ============== OWNER ==============
-### TEST 9999-01-01 149.129.216.199 ON VIP
+**============== OWNER ==============**
+*### TEST 9999-01-01 149.129.216.199 ON VIP*
 
-# ============== USER RESELLER ==============
-### TEST 2025-07-11 18.23.121.21
+**============== USER RESELLER ==============**
+*### TEST 2025-07-11 18.23.121.21*
 
-# ============== ADMIN RESELLER ==============
-### TEST 2025-12-11 128.199.212.101 ON 99 VIP
+**============== ADMIN RESELLER ==============**
+*### TEST 2025-12-11 128.199.212.101 ON 99 VIP*
 
 
 **Keterangan Cepat:**
