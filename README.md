@@ -23,8 +23,11 @@ Tulis setiap user satu baris diawali ###, lalu: NAMA TANGGAL_AKTIF IP [ON [KODE]
 **Keterangan Cepat:**
 
 • YYYY-MM-DD = tanggal berlaku sampai (mis. 2025-07-11).
+
 • 9999-01-01 = permanen (khusus owner/akun khusus).
-• ON [KODE] = jadikan reseller autoscript (opsional KODE,Penanda atau jumlah admin yang aktif mis. 99).
+
+• ON [KODE] = jadikan reseller autoscript (opsional KODE,Penanda atau jumlah admin yang aktif mis. 1-99).
+
 • VIP = aktifkan reseller IP (khusus admin).
 
 > Tips: Gunakan huruf kapital untuk NAMA, pisahkan field dengan spasi, dan pastikan IP IPv4 valid.
